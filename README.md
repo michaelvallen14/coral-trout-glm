@@ -3,6 +3,7 @@
 **Question:** Do no-take (protected) reefs hold more coral trout than reefs open to fishing, and does that difference change along the reef?
 
 **Data:** 120 Great Barrier Reef survey sites from 2012 (AIMS Long-Term Monitoring Program).
+
 **Tools:** R, generalised linear models (Poisson, quasi-Poisson, negative binomial), `MASS`, R Markdown.
 
 **[Read the full report →](report.md)**
